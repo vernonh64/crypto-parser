@@ -4,7 +4,7 @@ const bitcoin = load('./coin_Bitcoin.csv');
 const eth = load('./coin_Ethereum.csv');
 const doge = load('./coin_Dogecoin.csv');
 
-console.log(bitcoin[0], doge[0], eth[0])
+console.log(bitcoin[6])
 
 
 
