@@ -28,8 +28,10 @@ return newArray;
 
 
 
-let doge  = trimmer(doge)
+ let Tdoge  = trimmer(doge)
 let Tbitcoin = trimmer(bitcoin)
 let Teth = trimmer(eth)
 
-console.log(doge[0])
+console.log(Tdoge[0])
+console.log(Tbitcoin[0])
+console.log(Teth [0])
